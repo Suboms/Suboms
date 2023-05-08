@@ -17,8 +17,16 @@ Hello, I'm Oladunjoye Olasubomi, an aspiring software engineer based in Nigeria.
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+<div align="center">
+  <h2> <strong> My Github Stats </strong> </h2>
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Suboms&show_icons=true&bg_color=0e2239&text_color=58a6ff&hide_border=true" width="54.25%">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=Suboms&layout=compact&bg_color=0e2239&text_color=58a6ff&hide_border=true" width="45.25%"> 
+  <img src="https://github-profile-trophy.vercel.app/?username=Suboms&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle"  /> <br> <br>
+  <img src="https://streak-stats.demolab.com?user=Suboms&theme=highcontrast&hide_border=true&border_radius=0&ring=2100FA&background=000000&fire=0079FA&currStreakNum=0079FA&dates=0079FA&sideNums=0079FA&currStreakLabel=0079FA&stroke=0079FA&sideLabels=0079FA" height="150" alt="streaks graph"  />
+</div>
 ### Contact
 If you have any questions or would like to connect with me, you can find me on
+
 [![Gmail](https://img.shields.io/badge/-Gmail%20-rgb(205%2C59%2C47))](mailto:olasubomi24200201@gmail.com)
 [![Twitter](https://img.shields.io/badge/-Twitter-rgb(29%2C161%2C242))](https://twitter.com/dubsyoflagos)
 [![Telegram](https://img.shields.io/badge/-Telegram-blue)](https://t.me/manwhofelltoearth)
