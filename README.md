@@ -1,4 +1,6 @@
-# Hi, I'm Suboms <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="waving-hello">
+# Hi, there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="waving-hello">
+
+I'm Oladunjoye Olasubomi, a aspiring software engineer based in [Nigeria]. I'm passionate about [Database Administration, Cloud Engineering and Automation], and would love to work on any project relating to these field in or der to gain more experience.
 You can always find me on any of this platforms
 
 [![Gmail](https://img.shields.io/badge/-Gmail%20-rgb(205%2C59%2C47))](mailto:olasubomi24200201@gmail.com)
