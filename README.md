@@ -7,7 +7,7 @@ Hello, I'm Oladunjoye Olasubomi, an aspiring software engineer based in Nigeria.
 - 👯 I’m looking to collaborate on Fullstack web development, and Open-Source Projects.
 - 💬 Ask me about Python.
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: ~~_You Probably won't see the mistake_~~.
+- ⚡ Fun fact: ~~_You Probably will not see the mistake_~~.
 ## Tools And Technologies
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white)
 ![Postgresql](https://img.shields.io/badge/Postgresql-4169E1?style=for-the-badge&logo=Postgresql&logoColor=white)
