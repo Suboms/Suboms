@@ -25,7 +25,7 @@ Hello, I'm Oladunjoye Olasubomi, an aspiring software engineer based in Nigeria.
   <img src="https://streak-stats.demolab.com?user=Suboms&theme=highcontrast&hide_border=true&border_radius=0&ring=2100FA&background=000000&fire=0079FA&currStreakNum=0079FA&dates=0079FA&sideNums=0079FA&currStreakLabel=0079FA&stroke=0079FA&sideLabels=0079FA" height="150" alt="streaks graph"  />
 </div>
 
-### Contact
+### 📫 Contact Me
 If you have any questions or would like to connect with me, you can find me on
 
 [![Gmail](https://img.shields.io/badge/-Gmail%20-rgb(205%2C59%2C47))](mailto:olasubomi24200201@gmail.com)
