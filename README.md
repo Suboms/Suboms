@@ -2,7 +2,7 @@
 
 Hello, I'm Oladunjoye Olasubomi, an aspiring software engineer based in Nigeria. My passion lies in the fields of **_Database Administration, Cloud Engineering, and Automation_**. 
 - 🌱 I'm always eager to learn new technologies and best practices, and constantly seeking opportunities to work on projects that can help me gain more experience in these areas. 
--🌱 I'm committed to delivering quality work and creating solutions that solve real-world problems. 
+- 🌱 I'm committed to delivering quality work and creating solutions that solve real-world problems. 
 - 🌱 I’m currently learning Automation with python, I am also profound in Python and Frameworks like Django.
 - 👯 I’m looking to collaborate on Fullstack web development, and Open-Source Projects.
 - 💬 Ask me about Python.
