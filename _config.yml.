@@ -1,3 +1,30 @@
-remote_theme: pages-themes/hacker@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+# Site settings
+title: Github Profile
+description: Welcome to my GitHub Profile
+
+
+# Build settings
+theme: jekyll-theme-cayman # Replace "jekyll-theme-cayman" with the name of your desired theme
+
+
+
+# SEO settings (optional)
+# Replace the values below with your own site information
+# You can remove this section if not needed
+seo:
+  type: website
+  title: Github Profile
+  description: Welcome to my GitHub Profile
+  twitter:
+    username: dubsyoflagos
+
+# GitHub metadata (optional)
+# Uncomment the lines below if you want to use GitHub metadata
+# Replace the values with your own GitHub username and repository name
+# You can remove this section if not needed
+github:
+  repository: Suboms/Suboms
+  branch: main
+
+# Custom variables (optional)
+# Add any additional custom variables or settings here
