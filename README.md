@@ -23,12 +23,14 @@ Hello, I'm Oladunjoye Olasubomi, an aspiring software engineer based in Nigeria.
 </div>
 
 ![Suboms's GitHub stats](https://github-readme-stats.vercel.app/api?username=Suboms&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suboms)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suboms)]
 [![Suboms's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Suboms)](https://github.com/anuraghazra/github-readme-stats)
 ### 📫 Contact Me
 If you have any questions or would like to connect with me, you can find me on
+
 [![Gmail](https://img.shields.io/badge/-Gmail%20-rgb(205%2C59%2C47))](mailto:olasubomi24200201@gmail.com)
 [![Twitter](https://img.shields.io/badge/-Twitter-rgb(29%2C161%2C242))](https://twitter.com/dubsyoflagos)
 [![Telegram](https://img.shields.io/badge/-Telegram-blue)](https://t.me/manwhofelltoearth)
 [![StackOverflow](https://img.shields.io/badge/-StackOverflow-rgb(244%2C130%2C37))](https://stackoverflow.com/users/13397363/olasubomi)
+
 [<img src="https://komarev.com/ghpvc/?username=Suboms&label=Profile%20views&color=0e75b6&style=flat" alt="Suboms" />](https://github.com/Suboms/Suboms)
