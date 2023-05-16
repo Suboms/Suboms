@@ -21,7 +21,7 @@ Hello, I'm Oladunjoye Olasubomi, an aspiring software engineer based in Nigeria.
   <h2> <strong> My Github Stats </strong> </h2>
 </div>
 ![Suboms's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suboms&layout=donut))](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suboms&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 [![Suboms's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Suboms)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📫 Contact Me
