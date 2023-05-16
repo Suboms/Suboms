@@ -20,7 +20,7 @@ Hello, I'm Oladunjoye Olasubomi, an aspiring software engineer based in Nigeria.
 <div align="center">
   <h2> <strong> My Github Stats </strong> </h2>
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Suboms&show_icons=true&count_private=true&bg_color=0e2239&text_color=58a6ff&hide_border=true" width="54.25%">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=Suboms&count_private=true&layout=compact&bg_color=0e2239&text_color=58a6ff&hide_border=true" width="45.25%"> 
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=Suboms&layout=donut&bg_color=0e2239&text_color=58a6ff&hide_border=true" width="45.25%"> 
   <img src="https://github-profile-trophy.vercel.app/?username=Suboms&theme=algolia&no-frame=true&no-bg=true&count_private=true&row=1&column=7" width="100%" alt="Trophy" align="middle"  /> <br> <br>
   <img src="https://streak-stats.demolab.com?user=Suboms&theme=highcontrast&hide_border=true&border_radius=0&ring=2100FA&background=000000&fire=0079FA&currStreakNum=0079FA&dates=0079FA&sideNums=0079FA&currStreakLabel=0079FA&stroke=0079FA&sideLabels=0079FA" height="150" alt="streaks graph"  />
 </div>
@@ -28,6 +28,8 @@ Hello, I'm Oladunjoye Olasubomi, an aspiring software engineer based in Nigeria.
 ### 📫 Contact Me
 If you have any questions or would like to connect with me, you can find me on
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Harlok)](https://github.com/anuraghazra/github-readme-stats)
 [![Gmail](https://img.shields.io/badge/-Gmail%20-rgb(205%2C59%2C47))](mailto:olasubomi24200201@gmail.com)
 [![Twitter](https://img.shields.io/badge/-Twitter-rgb(29%2C161%2C242))](https://twitter.com/dubsyoflagos)
 [![Telegram](https://img.shields.io/badge/-Telegram-blue)](https://t.me/manwhofelltoearth)
