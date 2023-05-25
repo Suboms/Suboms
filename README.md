@@ -9,14 +9,14 @@ Hello, I'm Oladunjoye Olasubomi, an aspiring software engineer based in Nigeria.
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ~~_You Probably will not see the mistake_~~.
 ## Tools And Technologies
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white){:target="_blank"}
-![Postgresql](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&{:target="_blank"}logoColor=white){:target="_blank"}
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white){:target="_blank"}
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white){:target="_blank"}
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white){:target="_blank"}
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=GitHub&logoColor=white){:target="_blank"}
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white){:target="_blank"}
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=Heroku&logoColor=white){:target="_blank"}
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white)
+![Postgresql](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=GitHub&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=Heroku&logoColor=white)
 
 <div align="center">
   <h2><strong>My GitHub Stats</strong></h2>
@@ -32,9 +32,11 @@ Hello, I'm Oladunjoye Olasubomi, an aspiring software engineer based in Nigeria.
 ### 📫 Contact Me
 If you have any questions or would like to connect with me, you can find me on
 
-[![Gmail](https://img.shields.io/badge/-Gmail%20-rgb(205%2C59%2C47))](mailto:olasubomi24200201@gmail.com){:target="_blank"}
-[![Twitter](https://img.shields.io/badge/-Twitter-rgb(29%2C161%2C242))](https://twitter.com/dubsyoflagos){:target="_blank"}
-[![Telegram](https://img.shields.io/badge/-Telegram-blue)](https://t.me/manwhofelltoearth){:target="_blank"}
-[![StackOverflow](https://img.shields.io/badge/-StackOverflow-rgb(244%2C130%2C37))](https://stackoverflow.com/users/13397363/olasubomi){:target="_blank"}
+[![Gmail](https://img.shields.io/badge/-Gmail%20-rgb(205%2C59%2C47))](mailto:olasubomi24200201@gmail.com)
+[![Twitter](https://img.shields.io/badge/-Twitter-rgb(29%2C161%2C242))](https://twitter.com/dubsyoflagos)
+[![Telegram](https://img.shields.io/badge/-Telegram-blue)](https://t.me/manwhofelltoearth)
+[![StackOverflow](https://img.shields.io/badge/-StackOverflow-rgb(244%2C130%2C37))](https://stackoverflow.com/users/13397363/olasubomi)
 
 [<img src="https://komarev.com/ghpvc/?username=Suboms&label=Profile%20views&color=0e75b6&style=flat" alt="Suboms" />](https://github.com/Suboms/Suboms)
+
+[OpenAI](https://openai.com){:target="_blank"}
