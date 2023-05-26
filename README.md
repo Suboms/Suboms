@@ -31,7 +31,7 @@ Hello, I'm Oladunjoye Olasubomi, an aspiring software engineer based in Nigeria.
 [![GitHub Streak](https://streak-stats.demolab.com?user=Suboms&theme=dark&hide_border=true&type=png)](https://git.io/streak-stats)
 ### 📫 Contact Me
 If you have any questions or would like to connect with me, you can find me on
-
+<a target="_blank" href="https://stackoverflow.com/users/13397363/olasubomi"><img src="https://img.shields.io/badge/-StackOverflow-rgb(244%2C130%2C37)" alt=""></a>
 [![Gmail](https://img.shields.io/badge/-Gmail%20-rgb(205%2C59%2C47))](mailto:olasubomi24200201@gmail.com)
 [![Twitter](https://img.shields.io/badge/-Twitter-rgb(29%2C161%2C242))](https://twitter.com/dubsyoflagos)
 [![Telegram](https://img.shields.io/badge/-Telegram-blue)](https://t.me/manwhofelltoearth)
@@ -39,4 +39,3 @@ If you have any questions or would like to connect with me, you can find me on
 
 [<img src="https://komarev.com/ghpvc/?username=Suboms&label=Profile%20views&color=0e75b6&style=flat" alt="Suboms" />](https://github.com/Suboms/Suboms)
 
-[OpenAI](https://openai.com){:target="_blank"}
