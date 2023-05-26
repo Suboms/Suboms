@@ -32,7 +32,6 @@ Hello, I'm Oladunjoye Olasubomi, an aspiring software engineer based in Nigeria.
 ### 📫 Contact Me
 If you have any questions or would like to connect with me, you can find me on
 
-<a href="https://stackoverflow.com/users/13397363/olasubomi" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-StackOverflow-rgb(244%2C130%2C37)" alt=""></a>
 [![Gmail](https://img.shields.io/badge/-Gmail%20-rgb(205%2C59%2C47))](mailto:olasubomi24200201@gmail.com)
 [![Twitter](https://img.shields.io/badge/-Twitter-rgb(29%2C161%2C242))](https://twitter.com/dubsyoflagos)
 [![Telegram](https://img.shields.io/badge/-Telegram-blue)](https://t.me/manwhofelltoearth)
